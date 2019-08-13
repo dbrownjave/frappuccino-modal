@@ -6,10 +6,13 @@ usually topped with
 
 ,  ice , whipped cream and sauces.
 
+## Description 
+Frappuccino Modal is a simple modal blended with 🍦vanilla js and other various css ingredient, ussally topped with custom css and additional js.
 
 
 - Light-weight '''(about 1k minified)'''
 - Simple markup makes it easy to style
+- Highly Customizable 
 
 
 ## Installation 
