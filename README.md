@@ -28,8 +28,8 @@ The simplest method is to use the hosted version from cdnjs:
 <div class="os-modal" id="modalOne">
   <div class="os-modal-container">
     <div class="os-modal-close-btn">close</div>
-    <div class="title">Welcome</div>
-    <div class="body">Hello !</div>
+    <div class="title">Modal Title</div>
+    <div class="body">Hello, this is the modal message</div>
   </div>
 </div>
 
@@ -38,10 +38,18 @@ The simplest method is to use the hosted version from cdnjs:
 
 ```
 
+
+## Browser support
+- Chrome
+- Firefox
+- Safari
+- Microsoft Edge
+
 ## Sponsors
+If you are interested in becoming a sponsor, please feel free to contact us!
 
 ## License
-
-
+© 2019 [Magical X Labs](https://dorianbrown.io)  
+Released under the [MIT LICENSE](http://opensource.org/licenses/MIT)
 
 
