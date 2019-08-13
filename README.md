@@ -25,16 +25,16 @@ The simplest method is to use the hosted version from cdnjs:
 
 ```html
 <!-- Modal -->
-<div class="os-modal" id="modalOne">
-  <div class="os-modal-container">
-    <div class="os-modal-close-btn">close</div>
+<div class="fm-modal" id="modalOne">
+  <div class="fm-modal-container">
+    <div class="fm-modal-close-btn">close</div>
     <div class="title">Modal Title</div>
     <div class="body">Hello, this is the modal message</div>
   </div>
 </div>
 
 <!-- Trigger Action Button -->
-<button class="os-modal-trigger" data-os-target="#modalOne">Open Modal 1</button>
+<button class="fm-modal-trigger" data-fm-target="#modalOne">Open Modal One</button>
 
 ```
 
