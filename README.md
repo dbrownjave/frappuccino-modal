@@ -1,11 +1,5 @@
 ![Artboard](https://user-images.githubusercontent.com/19171147/62957907-b1286e00-bdc3-11e9-852b-3ae5ddf85171.png)
 
-Frappuccino - Simple modal blended with 🍦vanilla js and other various css ingredients
-
-usually topped with
-
-,  ice , whipped cream and sauces.
-
 ## Description 
 Frappuccino Modal is a simple modal blended with 🍦vanilla js and other various css ingredient, ussally topped with custom css and additional js.
 
