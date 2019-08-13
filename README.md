@@ -3,10 +3,10 @@
 ## Description 
 Frappuccino Modal is a simple modal blended with 🍦vanilla js and other various css ingredient, ussally topped with custom css and additional js.
 
-
+- No dependencies required
 - Light-weight '''(about 1k minified)'''
 - Simple markup makes it easy to style
-- Highly Customizable 
+- Fully customizable via CSS
 
 
 ## Installation 
@@ -23,6 +23,20 @@ The simplest method is to use the hosted version from cdnjs:
 
 ## Usage
 
+```html
+<!-- Modal -->
+<div class="os-modal" id="modalOne">
+  <div class="os-modal-container">
+    <div class="os-modal-close-btn">close</div>
+    <div class="title">Welcome</div>
+    <div class="body">Hello !</div>
+  </div>
+</div>
+
+<!-- Trigger Action Button -->
+<button class="os-modal-trigger" data-os-target="#modalOne">Open Modal 1</button>
+
+```
 
 ## Sponsors
 
