@@ -1,0 +1,81 @@
+body {
+  font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+}
+
+/* Animation */
+/* Animation */
+.fma-poof {
+  transition: visibility 0s linear 0.25s, opacity 0.25s 0s, transform 0.25s;
+}
+
+.fma-poof-out {
+  transition: visibility 0s linear 0.25s, opacity 0.25s 0s, transform 0.25s;
+}
+
+
+.fm-modal {
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(1, 16, 10, 0.67);
+  opacity: 0;
+  visibility: hidden;
+  transform: scale(1.1);
+  transition: visibility 0s linear 0.25s, opacity 0.25s 0s, transform 0.25s;
+}
+
+.fm-modal-container {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: white;
+  padding: 40px 35px;
+  width: 28rem;
+  border-radius: 24px;
+  box-shadow: 0 2px 50px 0 rgba(0, 0, 0, 0.14);
+}
+
+.fm-modal-close-btn {
+  float: right;
+  top: 15px;
+  right: 30px;
+  position: absolute;
+  text-align: right;
+  cursor: pointer;
+  color: #465A6A;
+  opacity: 0.50;
+  font-size: 17px;
+  transition: all 0.3s ease-in-out;
+}
+
+.fm-modal-close-btn:hover {
+  opacity: 1.0;
+}
+
+.show-modal {
+  opacity: 1;
+  visibility: visible;
+  transform: scale(1);
+  transition: visibility 0s linear 0s, opacity 0.25s 0s, transform 0.25s;
+}
+
+.title {
+  font-size: 20px;
+  font-weight: 500;
+  letter-spacing: 0.43px;
+  text-align: left;
+  color: #465A6A;
+  margin: 0px 0 5px 0;
+}
+
+.body {
+  font-size: 15px;
+  font-weight: 400;
+  line-height: 1.4;
+  letter-spacing: 0.36px;
+  text-align: left;
+  color: #465A6A;
+}
