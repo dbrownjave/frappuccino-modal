@@ -9,14 +9,17 @@ Frappuccino Modal is a simple modal blended with vanilla js and other various cs
 - Fully customizable via CSS
 
 ## Installation 
-The simplest method is to use the hosted version from cdnjs:
+The simplest method is to use the hosted version from jsDelivr:
 
 
+#### CSS
 ```html
-<head>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.0.0/jquery.min.js"></script>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-modal/0.9.1/jquery.modal.min.js"></script>
-</head>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/dbrownjave/frappuccino-modal/src/frappuccino-modal.min.css">
+```
+
+#### JS
+```html
+  <script src="https://cdn.jsdelivr.net/gh/dbrownjave/frappuccino-modal/src/frappuccino-modal.min.js"></script>
 ```
 
 
@@ -40,10 +43,10 @@ The simplest method is to use the hosted version from cdnjs:
 
 ## Anatomy 
 
-### Modal
+#### Modal
 ![Artboard](https://user-images.githubusercontent.com/19171147/62988656-1c4d6100-be13-11e9-915a-2ea217d90bcb.png)
 
-### Trigger Button
+#### Trigger Button
 ![Artboard](https://user-images.githubusercontent.com/19171147/62989264-4dc72c00-be15-11e9-8600-0953bb19ef9b.png)
 
 
