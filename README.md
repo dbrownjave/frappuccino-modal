@@ -8,7 +8,6 @@ Frappuccino Modal is a simple modal blended with vanilla js and other various cs
 - Simple markup makes it easy to style
 - Fully customizable via CSS
 
-
 ## Installation 
 The simplest method is to use the hosted version from cdnjs:
 
@@ -37,6 +36,16 @@ The simplest method is to use the hosted version from cdnjs:
 <button class="fm-modal-trigger" data-fm-target="#modalOne">Open Modal One</button>
 
 ```
+
+
+## Anatomy 
+
+### Modal
+![Artboard](https://user-images.githubusercontent.com/19171147/62988656-1c4d6100-be13-11e9-915a-2ea217d90bcb.png)
+
+### Trigger Button
+![Artboard](https://user-images.githubusercontent.com/19171147/62989264-4dc72c00-be15-11e9-8600-0953bb19ef9b.png)
+
 
 
 ## Browser support
