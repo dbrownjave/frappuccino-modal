@@ -1,4 +1,4 @@
-![Artboard](https://user-images.githubusercontent.com/19171147/62957907-b1286e00-bdc3-11e9-852b-3ae5ddf85171.png)
+![Artboard](https://user-images.githubusercontent.com/19171147/62989401-c201cf80-be15-11e9-9cdc-6bebced7df29.png)
 
 ## Description 
 Frappuccino Modal is a simple modal blended with vanilla js and other various css ingredient, ussally topped with custom css and additional js.
