@@ -10,10 +10,10 @@ var fmSlideInUpAnimation = "fma-slideInUp"
 var fmaAnimations = [fmPoofAnimation, fmSlideInUpAnimation]
 
 // initization
-addEventListerners();
+addFMEventListerners()
 
 
-function addEventListerners() {
+function addFMEventListerners() {
   document.querySelectorAll(".fm-modal-trigger").forEach(function(el) {
     el.addEventListener("click", function(e) {
       toggleModal(e);
